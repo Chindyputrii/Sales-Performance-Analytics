@@ -3,14 +3,19 @@ Interactive Sales Performance Dashboard (2011-2014) built with Excel Pivot Table
 
 Sales Performance Analysis Dashboard (2011 - 2014)
 📌 Project Overview
-Proyek ini berfokus pada analisis data penjualan retail (Superstore) selama periode 4 tahun (2011-2014) menggunakan Microsoft Excel. Tujuan utamanya adalah untuk mengubah data mentah sebanyak 9.000+ baris menjadi informasi strategis yang dapat membantu pengambilan keputusan bisnis melalui dashboard interaktif.
+This project focuses on analyzing retail sales data (Superstore) over a 4-year period (2011-2014) using Microsoft Excel. The primary objective is to transform over 9,000 rows of raw transactional data into strategic insights that facilitate data-driven business decisions through an interactive dashboard.
+
+📂 Data Source
+- Dataset Name: Superstore Sales Dataset.
+- Source: [Kaggle]([url](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales?select=Superstore.csv))
+- Description: This dataset contains retail transaction details, including product information, location, categories, and financial performance metrics such as Sales and Profit. It consists of 21 columns and 9,994 rows.
 
 📊 Key Features & Analysis
-Dashboard ini mencakup beberapa analisis utama:
-- Key Performance Indicators (KPIs): Menampilkan Total Sales ($2.2M+), Total Profit ($285K+), dan Total Orders (9988) secara dinamis.
-- Sales & Profit Trend: Visualisasi pertumbuhan penjualan tahunan dan bulanan menggunakan Line Chart serta perbandingan profitabilitas.
-- Category Analysis: Distribusi penjualan berdasarkan kategori utama (Furniture, Office Supplies, Technology) menggunakan Doughnut Chart.
-- Geographical & Segmentation Analysis: Mengidentifikasi wilayah (Region) dan segmen pelanggan (Consumer, Corporate, Home Office) yang paling dominan menggunakan Bar dan Treemap Chart.
+The dashboard provides a comprehensive view of several key business dimensions:
+- Key Performance Indicators (KPIs): Dynamic tracking of Total Sales ($2.2M+), Total Profit ($285K+), and Total Orders (9,988).
+- Sales & Profit Trends: Visualization of annual and monthly sales growth using Line Charts, alongside profitability comparisons.
+- Category Analysis: Distribution of sales across major categories (Furniture, Office Supplies, Technology) visualized through Doughnut Charts.
+- Geographical & Segmentation Analysis: Identifying dominant regions and customer segments (Consumer, Corporate, Home Office) using Bar Charts and Treemaps.
 
 🛠️ Tools & Skills
 - Microsoft Excel: Pivot Tables, Pivot Charts, Power Pivot (Data Modeling).
