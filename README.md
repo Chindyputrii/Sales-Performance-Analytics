@@ -7,7 +7,7 @@ This project focuses on analyzing retail sales data (Superstore) over a 4-year p
 
 📂 Data Source
 - Dataset Name: Superstore Sales Dataset.
-- Source: [Kaggle]([url](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales?select=Superstore.csv))
+- Source: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales?select=Superstore.csv
 - Description: This dataset contains retail transaction details, including product information, location, categories, and financial performance metrics such as Sales and Profit. It consists of 21 columns and 9,994 rows.
 
 📊 Key Features & Analysis
