@@ -1,5 +1,5 @@
 # Sales-Performance-Analytics
-Interactive Sales Performance Dashboard (2011-2014) built with Excel Pivot Tables, Power Pivot, and Dynamic KPIs.
+Interactive Sales Performance Dashboard (2011-2014) built with Excel Pivot Table, and Dynamic KPIs.
 
 Sales Performance Analysis Dashboard (2011 - 2014)
 📌 Project Overview
@@ -18,7 +18,7 @@ The dashboard provides a comprehensive view of several key business dimensions:
 - Geographical & Segmentation Analysis: Identifying dominant regions and customer segments (Consumer, Corporate, Home Office) using Bar Charts and Treemaps.
 
 🛠️ Tools & Skills
-- Microsoft Excel: Pivot Tables, Pivot Charts, Power Pivot (Data Modeling).
+- Microsoft Excel: Pivot Tables, and Pivot Chart.
 - Interactive Elements: Slicers, Timelines, dan Report Connections.
 - Advanced Visuals: Custom KPI Cards, Secondary Axis Charts, dan Treemaps.
 
